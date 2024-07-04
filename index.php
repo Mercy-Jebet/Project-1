@@ -52,7 +52,8 @@ session_start();
     
     <footer style="text-align:end; color:aliceblue; background-color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">All rights reserved</footer>
     <?php require_once("form.php"); ?>
-    
+    <?php require_once("contact_us,php"); ?>
+    <
     
    
     
