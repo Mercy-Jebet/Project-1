@@ -30,7 +30,10 @@
     <div class="content">
         <img align="left" src="group.jpg" style="width:500px; height:400px">
         <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:rgb(3, 50, 205);"><u>WELCOME TO BETTER HELP!</u></h2>
-    
+</div>
+<?php include_once ("templates/heading.php");?>
+<?php include_once ("templates/nav.php")?>
+<?php include_once ("templates/footer.php")?>
     
     
     
