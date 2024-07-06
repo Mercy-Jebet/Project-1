@@ -1,14 +1,6 @@
-<!DOCTYPE php>
-<html lang="en">
-<?php
-session_start();
-?>
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Document</title>
-    
-    <style>
+<?php include_once ("templates/heading.php");?>
+<?php include_once ("templates/nav.php")?>
+<?php include_once ("templates/footer.php")?>
     div{
         margin:auto;
         background-color:rgb(220, 211, 211);
@@ -31,8 +23,7 @@ session_start();
         color: white;
     }
 
-</style>
-</head>  
+
 
 <body>
    <header> <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" color="#0b7f97; " align="center">BETTER HELP</h1>
@@ -49,10 +40,7 @@ session_start();
     <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:rgb(3, 50, 205);"><u>WELCOME TO BETTER HELP!</u></h2>
     
     <footer style="text-align:end; color:aliceblue; background-color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">All rights reserved</footer>
-    <?php require_once("form.php"); ?>
-    <?php require_once("contact_us,php"); ?>
-    <?php require_once("about.php");?>
+    
     
    
     
-</html>
