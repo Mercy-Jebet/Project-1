@@ -1,11 +1,9 @@
+<?php include_once ("templates/heading.php");?>
+<?php include_once ("templates/nav.php")?>
+<?php include_once ("templates/footer.php")?>
 
-
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=, initial-scale=1.0">
-        <title>Document</title>
+    
         
-        <style>
         div{
             margin:auto;
             background-color:rgb(220, 211, 211);
@@ -57,7 +55,9 @@
     <h2 ><u>OUR IMPACT:</u></h2>
     <p>With over 383 million sessions served, BetterHelp has helped millions of people take charge of their mental health and achieve their goals. We are committed to continuously expanding access to high-quality therapy around the world.</p>
     
-
+    <?php include_once ("templates/heading.php");?>
+<?php include_once ("templates/nav.php")?>
+<?php include_once ("templates/footer.php")?>
 
 
 
