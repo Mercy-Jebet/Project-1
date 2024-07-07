@@ -27,12 +27,7 @@
 <body>
     <header> <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" color="#0b7f97; " align="center">BETTER HELP</h1>
     <h2>
-    <div id ="menu" align ="middle"style="font-family:times new roman; color: darkgrey;">
-        <a href = "index.html">HOME</a>
-        <a href="contact_us.html">CONTACT</a>
-        <a href="about.html">ABOUT</a>
-        <a href ="form.html">LOGIN</a>
-    </div>
+    
     </h2></header>
 </body>
 
