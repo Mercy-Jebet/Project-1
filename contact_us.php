@@ -35,5 +35,4 @@
     </div>
     </h2></header>
 </body>
-<footer style="text-align: end; color:aliceblue; background-color: black; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">All rights reserved</footer>
-</html>
+
