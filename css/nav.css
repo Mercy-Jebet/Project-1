@@ -7,5 +7,6 @@
     text-decoration: wavy;
     padding: 14px 16px;
     display:flexbox;
-
+    float:inline-start;
+    text-align:center;
 }
