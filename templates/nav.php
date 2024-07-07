@@ -1,6 +1,6 @@
 <div class = "toplink">
-        <a href = "index.html">HOME</a>
-        <a href="contact_us.html">CONTACT</a>
-        <a href="about.html">ABOUT</a>
-        <a href ="form.html">LOGIN</a>
+        <a href = "index.php">HOME</a>
+        <a href="contact_us.php">CONTACT</a>
+        <a href="about.php">ABOUT</a>
+        <a href ="form.php">LOGIN</a>
 </div>
