@@ -30,4 +30,6 @@
     
     </h2></header>
 </body>
-
+<?php include_once ("templates/heading.php");?>
+<?php include_once ("templates/nav.php")?>
+<?php include_once ("templates/footer.php")?>
