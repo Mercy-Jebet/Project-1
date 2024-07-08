@@ -1,12 +1,5 @@
-.toplink{
-    background-color:rgb(186, 191, 196) ;
-    overflow:hidden;
-}
-.toplink a{
-    color:black;
-    text-decoration: wavy;
-    padding: 14px 16px;
-    display:flexbox;
-    float:inline-start;
-    text-align:center;
+div{
+    margin:auto;
+    background-color:rgb(220, 211, 211);
+    text-align: center;
 }
