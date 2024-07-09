@@ -30,6 +30,7 @@
     
     </h2></header>
 </body>
+<footer>All rights reserved </footer>
 <?php include_once ("templates/header.php");?>
 <?php include_once ("templates/nav.php")?>
 <?php include_once ("templates/footer.php")?>
