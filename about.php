@@ -55,8 +55,7 @@
     <h2 ><u>OUR IMPACT:</u></h2>
     <p>With over 383 million sessions served, BetterHelp has helped millions of people take charge of their mental health and achieve their goals. We are committed to continuously expanding access to high-quality therapy around the world.</p>
     
-  <?php include_once('C:/xampp/htdocs/path/to/templates/heading.php');?>
-
+<?php include_once("templates/header.php");?>
 <?php include_once ("templates/nav.php")?>
 <?php include_once ("templates/footer.php")?>
 
