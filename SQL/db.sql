@@ -12,5 +12,12 @@ CREATE TABLE IF NOT EXISTS sign_in(
     pass.word varchar(50) NOT NULL DEFAULT '',
     day.of.birth date NOT NULL DEFAULT 0;
     gender varchar(50) NOT NULL DEFAULT '',
-    PRIMARY KEY (userId)
+    PRIMARY KEY (fullname)
+);
+
+DROP TABLE IF EXISTS 'gender';
+CREATE TABLE IF NOT EXISTS 'gender'(
+    'genderID' tinyint(10) NOT NULL AUTO_INCREMENT,
+    'gender' varchar(50) DEFAULT NULL,
+    PRIMARY KEY 
 );
