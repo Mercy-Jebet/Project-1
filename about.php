@@ -1,39 +1,7 @@
 <?php include_once ("templates/header.php");?>
 <?php include_once ("templates/nav.php")?>
 <?php include_once ("templates/footer.php")?>
-
     
-        
-        div{
-            margin:auto;
-            background-color:rgb(220, 211, 211);
-            text-align: center;
-        }
-        p{
-            margin: 1;
-        }
-        header{
-            background-color:rgb(0, 0, 0);
-            padding:0%;
-            text-align: center;
-            font-size:x-large;
-            color:aliceblue;
-        }
-        footer {
-            background-color: #000000;
-            padding: 10px;
-            text-align: center;
-            color: white;
-    }
-        h2{
-            color:rgb(3, 50, 205);
-            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        }
-        p{
-            text-align: right;
-            color:rgb(106, 167, 220);
-        }
-    </style>
 <header> <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" color="#0b7f97; " align="center">BETTER HELP</h1>
 <body>
     <div> <h2 id ="menu" align ="middle" style="font-family:'Times New Roman', Times, serif; color: darkgrey; ">
