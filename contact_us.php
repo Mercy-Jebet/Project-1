@@ -4,7 +4,7 @@
         
          
 </head>
-<body>
+<body style="text-align= right">
     <header> <h1 style="font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;" color="#0b7f97; " align="center">BETTER HELP</h1>
     </header>
     <h2><b>Contact us</b></h2>
