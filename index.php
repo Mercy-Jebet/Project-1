@@ -13,10 +13,7 @@
 
 Layout and Responsiveness:
 
-Grid Layout: I could structure the interface using CSS Grid, creating a flexible and responsive layout that adapts to different screen sizes. This would ensure the information is presented clearly and navigation is easy on desktops, tablets, and mobile devices.
-Flexbox: For more complex layouts with elements that need to resize or wrap dynamically, I could utilize Flexbox. This would allow for a clean and organized interface that adjusts based on content and user interaction.
-Media Queries: To ensure optimal viewing across devices, I would implement media queries that adjust styles based on screen size, resolution, or orientation. This would prevent elements from overflowing or becoming unreadable on smaller screens.
-Visual Design and User Experience:
+
 
 Typography: I could leverage CSS to control fonts, sizes, colors, and weights to create a visually appealing and readable interface. This would include using appropriate fonts for headings, body text, and buttons, ensuring a clear hierarchy of information.
 Color Schemes: A well-defined color scheme using CSS would enhance the visual identity and user experience. I could create a primary and secondary color palette, along with complementary and contrasting colors for different elements (buttons, backgrounds, text). This would establish a cohesive and aesthetically pleasing interface.
